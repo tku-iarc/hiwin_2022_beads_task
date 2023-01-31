@@ -1,1 +1,1 @@
-# hiwin_2022_beads_task
+# beads task in hiwin competition
